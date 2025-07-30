@@ -114,6 +114,9 @@ This repository contains a full pipeline solution for the **Santander Customer T
 - **Add more features:** Consider using feature interactions, or different aggregation rules.
 - **Switch LightGBM metrics:** The code is easily adaptable to other metrics if needed.
 
+Link to the challenge -  [
+](https://www.kaggle.com/competitions/santander-customer-transaction-prediction**)
+
 ## Licensing and Credits
 
 - **Data:** Provided by Santander through Kaggle.
